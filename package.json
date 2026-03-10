@@ -1,6 +1,6 @@
 {
   "name": "mcp-server",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Octopus Deploy Official MCP Server",
   "main": "src/index.ts",
   "scripts": {
